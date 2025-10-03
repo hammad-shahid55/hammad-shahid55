@@ -27,6 +27,8 @@
   <a href="https://www.instagram.com/hammad.shahid77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammad.shahid-77" height="30" width="40" /></a>
     <a href="https://medium.com/@hamadsami672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamadsami672" height="30" width="40" /></a>
       <a href="https://www.reddit.com/user/Tenacious_55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Tenacious_55" height="30" width="40" /></a>
+      <a href="https://www.discord.com/user/hammadshahid0605_62114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hammadshahid0605_62114" height="30" width="40" /></a>
+  
 </p>
 
 
