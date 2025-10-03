@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hammad-shahid55](https://github.com/hammad-shahid55)
 
-- 💬 Ask me about **Flutter and React Native**
+- 💬 Ask me about **Flutter and React Native Mobile Application**
 
 - 📫 How to reach me **hamadsami672@gmail.com**
 
