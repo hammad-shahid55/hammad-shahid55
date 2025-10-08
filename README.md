@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
+<h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
 <h3 align="center">A passionate Cross Platform Flutter and React Native Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-shahid55&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-shahid55" /> </p>
@@ -36,76 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en" alt="hammad-shahid55" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&" alt="hammad-shahid55" /></p> -->
-
-# Hi 👋, I'm Hammad Shahid
-
-A passionate Cross Platform Flutter and React Native Mobile Developer
-
-[![Profile views](https://komarev.com/ghpvc/?username=hammad-shahid55&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/hammad-shahid55)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/hammadshah27174?logo=twitter&style=for-the-badge)](https://twitter.com/hammadshah27174)
-
-## About Me
-- 🌱 I’m currently learning **Kotlin & Swift**
-- 👯 I’m looking to collaborate on **App Development Projects**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/hammad-shahid55)
-- 💬 Ask me about **Flutter and React Native Mobile Application**
-- 📫 How to reach me: **hamadsami672@gmail.com**
-- ⚡ Fun fact: **I think I am a Quick Learner, Fast Code Reviewer, Quick Bug Fixer, and Tenacious**
-
-## Connect with me:
-[![Dev.to](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)](https://dev.to/tenacious-55)
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/hammadshah27174)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/hammad-shahid-780a8534b)
-[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@hamadsami672)
-
-## Languages and Tools:
-
-[![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com)
-[![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)](https://flutter.dev)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
-[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)
-[![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/)
-[![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)](https://kotlinlang.org)
-[![Swift](https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg)](https://developer.apple.com/swift/)
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&)
-
-## My Projects:
-
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| **Flutter App** | A beautiful cross-platform app built with Flutter. | [View on GitHub](https://github.com/hammad-shahid55/flutter-app) |
-| **React Native App** | A mobile app built with React Native for iOS and Android. | [View on GitHub](https://github.com/hammad-shahid55/react-native-app) |
-| **Kotlin/Swift Project** | A project showcasing my Kotlin and Swift skills. | [View on GitHub](https://github.com/hammad-shahid55/kotlin-swift-project) |
-
-## Fun Stats:
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=hammad-shahid55&theme=github)
-
-### Pinned Repositories:
-
-- [Flutter App](https://github.com/hammad-shahid55/flutter-app)
-- [React Native App](https://github.com/hammad-shahid55/react-native-app)
-- [Kotlin Project](https://github.com/hammad-shahid55/kotlin-project)
-
----
-
-### Contributions to Open Source
-
-[![Open Source Contributions](https://img.shields.io/github/contributors/hammad-shahid55?logo=github&style=for-the-badge)](https://github.com/hammad-shahid55)
-
----
-
-![Snake Animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&" alt="hammad-shahid55" /></p>
 
