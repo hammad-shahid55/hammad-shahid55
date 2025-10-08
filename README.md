@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
+<!-- <h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
 <h3 align="center">A passionate Cross Platform Flutter and React Native Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-shahid55&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-shahid55" /> </p>
@@ -36,4 +36,121 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en" alt="hammad-shahid55" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&" alt="hammad-shahid55" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&" alt="hammad-shahid55" /></p> -->
+
+<style>
+  body {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+  }
+
+  .profile-img {
+    border-radius: 50%;
+    border: 5px solid #fff;
+    width: 150px;
+    height: 150px;
+  }
+
+  .timeline {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+
+  .timeline li {
+    background-color: #fff;
+    color: #333;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 10px;
+  }
+
+  .contact-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+
+  .contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+
+  .contact-form button {
+    background-color: #2575fc;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .contact-form button:hover {
+    background-color: #6a11cb;
+  }
+</style>
+
+<div class="container">
+  <h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
+  <h3 align="center">A passionate Cross Platform Flutter and React Native Mobile Developer</h3>
+  <img class="profile-img" src="https://avatars.githubusercontent.com/hammad-shahid55" alt="Hammad Shahid">
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-shahid55&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-shahid55" /> </p>
+
+  <p align="left"> <a href="https://twitter.com/hammadshah27174" target="blank"><img src="https://img.shields.io/twitter/follow/hammadshah27174?logo=twitter&style=for-the-badge" alt="hammadshah27174" /></a> </p>
+
+  <ul class="timeline">
+    <li><strong>🌱 Learning:</strong> Kotlin & Swift</li>
+    <li><strong>👯 Collaboration:</strong> Open to **App Development Projects**</li>
+    <li><strong>👨‍💻 Projects:</strong> Available on [GitHub](https://github.com/hammad-shahid55)</li>
+    <li><strong>💬 Ask me about:</strong> Flutter & React Native</li>
+    <li><strong>📫 Reach me:</strong> hamadsami672@gmail.com</li>
+    <li><strong>⚡ Fun fact:</strong> Quick Learner, Fast Bug Fixer & Tenacious</li>
+  </ul>
+
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="https://dev.to/tenacious-55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tenacious-55" height="30" width="40" /></a>
+    <a href="https://twitter.com/hammadshah27174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadshah27174" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/hammad-shahid-780a8534b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad-shahid-780a8534b" height="30" width="40" /></a>
+    <a href="https://medium.com/@hamadsami672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamadsami672" height="30" width="40" /></a>
+  </p>
+
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+    <!-- Icons for languages and tools -->
+    <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+    <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+    <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+    <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+  </p>
+
+  <h3 align="left">Contact Me:</h3>
+  <form class="contact-form" action="mailto:hamadsami672@gmail.com" method="post" enctype="text/plain">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <label for="message">Message:</label>
+    <textarea id="message" name="message" required></textarea>
+    <button type="submit">Send Message</button>
+  </form>
+
+  <h3 align="left">My Stats:</h3>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact" alt="hammad-shahid55" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en" alt="hammad-shahid55" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&" alt="hammad-shahid55" /></p>
+
+</div>
+
