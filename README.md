@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-shahid55&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-shahid55" /> </p>
 
-
-
 <p align="left"> <a href="https://twitter.com/hammadshah27174" target="blank"><img src="https://img.shields.io/twitter/follow/hammadshah27174?logo=twitter&style=for-the-badge" alt="hammadshah27174" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin & Swift**
