@@ -1,3 +1,35 @@
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Haroon%20Saleem&fontSize=70&fontColor=00ffff&animation=twinkling&fontAlignY=35"/>
+</div>
+
+<div align="center">
+    <img src="https://github.com/Haroonhsa007/Haroonhsa007/blob/main/code.gif" width="500" height="320" alt="coding">
+</div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Full+Stack+Developer+%7C+Electronics+Engineer;Machine+Learning+Enthusiast+%7C+DevOps+Engineer" alt="Typing SVG" />
+    </a>
+</div>
+
+<div align="center">
+<!--     <img src="https://img.shields.io/github/actions/workflow/status/Haroonhsa007/Haroonhsa007/profile-3d.yml?style=for-the-badge&color=00ffff" alt="Workflow"/> -->
+    <img src="https://komarev.com/ghpvc/?username=Haroonhsa007&style=for-the-badge&color=00ffff" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Haroonhsa007?style=for-the-badge&color=00ffff" alt="Followers"/>
+    <img src="https://img.shields.io/badge/Status-Always%20Coding-00ffff?style=for-the-badge" alt="Status"/>
+    <img src="https://img.shields.io/badge/Experience-4+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haroonhsa007/Haroonhsa007/output/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haroonhsa007/Haroonhsa007/output/github-contribution-grid-snake.svg?v=3">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Haroonhsa007/Haroonhsa007/output/github-contribution-grid-snake.svg?v=3">
+  </picture>
+</div>
+
 <h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
 
 <h3 align="center">A passionate Cross Platform Flutter and React Native Mobile Developer</h3>
