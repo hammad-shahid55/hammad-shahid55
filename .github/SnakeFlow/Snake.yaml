@@ -1,0 +1,40 @@
+name: Generate Snake
+
+on:
+  # Run every 2 hours
+  schedule:
+    - cron: "0 */2 * * *"
+  
+  # Allow manual trigger
+  workflow_dispatch:
+  
+  # Optionally, run on push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10  # Prevent hanging jobs
+    
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}  # Dynamic username
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Generate snake animation [skip ci]"  # Prevent recursive builds
+          keep_history: false  # Reduce repo size
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
