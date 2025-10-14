@@ -20,19 +20,12 @@
 - ⚡ Fun fact **I think I am Quick Learner, Fast Code Reviewer, Quick Bug Fixer And Tenacious**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-    
-<a href="https://dev.to/tenacious-55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tenacious-55" height="30" width="40" /></a>
-    
+<a href="https://dev.to/tenacious-55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tenacious-55" height="30" width="40" /></a> 
 <a href="https://twitter.com/hammadshah27174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadshah27174" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/hammad-shahid-780a8534b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad-shahid-780a8534b" height="30" width="40" /></a>
-
 <a href="https://medium.com/@hamadsami672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamadsami672" height="30" width="40" /></a>
-
 <a href="https://www.reddit.com/user/Tenacious_55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Tenacious_55" height="30" width="40" /></a>
-
 <a href="https://www.discord.com/channels/@hammadshahid0605_62114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hammadshahid0605_62114" height="30" width="40" /></a>
 
 </p>
