@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
 
 <h3 align="center">A passionate Cross Platform Flutter and React Native Mobile Developer</h3>
