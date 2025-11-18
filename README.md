@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/hammadshah27174" target="blank"><img src="https://img.shields.io/twitter/follow/hammadshah27174?logo=twitter&style=for-the-badge" alt="hammadshah27174" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin & Swift**
+- 🌱 I’m currently learning **Docker, Kotlin & Swift**
 
 - 👯 I’m looking to collaborate on **App Development Projects**
 
