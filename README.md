@@ -135,6 +135,15 @@ Responsive **coffee shop website** showcasing products, with elegant design and 
 
 ### GitHub Stats
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Faisalkhalil86&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faisalkhalil86&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+</div>
+
+
+
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
