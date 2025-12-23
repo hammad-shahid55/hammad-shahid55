@@ -6,8 +6,8 @@
 Specializing in <b>Flutter</b> and <b>React Native</b> development, building robust and scalable mobile applications. I love crafting seamless user experiences and solving complex problems through clean, efficient code.
 </p>
 
-<p align="center"> 
-<a href="https://twitter.com/hammadshah27174" target="blank"><img src="https://img.shields.io/twitter/follow/hammadshah27174?logo=twitter&style=for-the-badge" alt="hammadshah27174" /></a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hammad-shahid-780a8534b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <div align="center">
@@ -35,7 +35,7 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="95%"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%"/>
 
 </td>
 </tr>
