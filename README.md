@@ -25,6 +25,7 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 <td width="50%" valign="top" style="border: 0px;">
 
 <br>
+
 - 🔭 Currently working on **innovative mobile solutions** for diverse industries
   
 - 🌱 Learning **Docker, Kotlin & Swift** to expand my native development skills
