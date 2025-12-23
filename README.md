@@ -148,6 +148,11 @@ Responsive **coffee shop website** showcasing products, with elegant design and 
 </p>
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-shahid55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=00d9ff&langs_count=8" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=hammad-shahid55&limit=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=00d9ff&ring_color=00d9ff" />
+</div>
+
+<div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hammad-shahid55&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph" />
 </div>
 
