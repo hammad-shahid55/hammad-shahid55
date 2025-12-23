@@ -155,15 +155,15 @@ Responsive **coffee shop website** showcasing products, with elegant design and 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
