@@ -20,9 +20,11 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 
 ### About Me
 
-<table style="border: none;">
-<tr>
-<td width="50%" valign="top" style="border: none;">
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse; border: 0px;">
+<tr style="border: 0px;">
+<td width="50%" valign="top" style="border: 0px;">
+
+<br>
 
 - 🔭 Currently working on **innovative mobile solutions** for diverse industries
 - 🌱 Learning **Docker, Kotlin & Swift** to expand my native development skills
@@ -33,7 +35,7 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 - ⚡ Fun fact: I'm a **quick learner**, **fast code reviewer**, **efficient bug fixer**, and **tenacious problem solver**
 
 </td>
-<td width="50%" valign="top" style="border: none;">
+<td width="50%" valign="top" style="border: 0px;">
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
