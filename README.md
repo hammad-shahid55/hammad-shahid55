@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
+<h1 align="center">Hi, I'm Hammad Shahid</h1>
 
 <h3 align="center">A Passionate Cross-Platform Mobile Application Developer</h3>
 
@@ -12,53 +12,65 @@ Specializing in Flutter and React Native development, building robust and scalab
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 Currently working on **innovative mobile solutions** for diverse industries
-- 🌱 Learning **Docker, Kotlin & Swift** to expand my native development skills
-- 👯 Looking to collaborate on **App Development Projects** and open-source contributions
-- 💼 All of my projects are available at [GitHub](https://github.com/hammad-shahid55)
-- 💬 Ask me about **Flutter, React Native, Firebase, TypeScript, State Management, and Mobile UI/UX**
-- 📫 Reach me at **hamadsami672@gmail.com**
-- ⚡ Fun fact: **I'm a quick learner, fast code reviewer, efficient bug fixer, and tenacious problem solver**
+- Currently working on innovative mobile solutions for diverse industries
+- Learning Docker, Kotlin & Swift to expand my native development skills
+- Looking to collaborate on App Development Projects and open-source contributions
+- All of my projects are available at [GitHub](https://github.com/hammad-shahid55)
+- Ask me about Flutter, React Native, Firebase, TypeScript, State Management, and Mobile UI/UX
+- Reach me at **hamadsami672@gmail.com**
+- Fun fact: I'm a quick learner, fast code reviewer, efficient bug fixer, and tenacious problem solver
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🚗 [SwiftRide - Ride Sharing App](https://github.com/hammad-shahid55/my_SwiftRide)
+#### SwiftRide - Ride Sharing App
+[View Project](https://github.com/hammad-shahid55/my_SwiftRide)
+
 A comprehensive ride-sharing application built with Flutter and Dart. Features include real-time ride tracking, user authentication, and seamless booking experience.
 
 **Tech Stack:** Flutter, Dart, Firebase
 
-#### 🍽️ [Canteen Management System](https://github.com/hammad-shahid55/my_Canteen)
+#### Canteen Management System
+[View Project](https://github.com/hammad-shahid55/my_Canteen)
+
 Digital canteen management solution for ordering and managing meals efficiently. Streamlines the food ordering process with an intuitive mobile interface.
 
 **Tech Stack:** Flutter, Dart
 
-#### ✅ [ProVerify - Verification System](https://github.com/hammad-shahid55/My_ProVerify)
+#### ProVerify - Verification System
+[View Project](https://github.com/hammad-shahid55/My_ProVerify)
+
 Professional verification and authentication system built with modern web technologies for secure user validation.
 
 **Tech Stack:** TypeScript, React
 
-#### 🏗️ [Foundation - Project Management](https://github.com/hammad-shahid55/My_Foundation)
+#### Foundation - Project Management
+[View Project](https://github.com/hammad-shahid55/My_Foundation)
+
 A project management and foundation tracking application designed to help teams collaborate effectively.
 
 **Tech Stack:** TypeScript, React
 
-#### 📝 [Todo App - Task Manager](https://github.com/hammad-shahid55/My-todo-app)
+#### Todo App - Task Manager
+[View Project](https://github.com/hammad-shahid55/My-todo-app)
+
 Modern todo application with clean UI and efficient task management capabilities built using TypeScript.
 
 **Tech Stack:** TypeScript, React
 
-#### ☕ [Coffee Website](https://github.com/hammad-shahid55/my_cofffe_website)
+#### Coffee Website
+[View Project](https://github.com/hammad-shahid55/my_cofffe_website)
+
 Responsive coffee shop website showcasing products, with elegant design and smooth user experience.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Mobile Development
 <p align="left">
@@ -111,36 +123,36 @@ Responsive coffee shop website showcasing products, with elegant design and smoo
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en&theme=tokyonight" alt="hammad-shahid55" />
+<img src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=tokyonight" alt="hammad-shahid55" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hammad-shahid55" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/hammad-shahid-780a8534b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad-shahid-780a8534b" height="30" width="40" /></a>
-<a href="https://twitter.com/hammadshah27174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadshah27174" height="30" width="40" /></a>
-<a href="https://medium.com/@hamadsami672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamadsami672" height="30" width="40" /></a>
-<a href="https://dev.to/tenacious-55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tenacious-55" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Tenacious_55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Tenacious_55" height="30" width="40" /></a>
-<a href="https://discord.com/users/hammadshahid0605_62114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hammadshahid0605_62114" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hammad-shahid-780a8534b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/hammadshah27174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://medium.com/@hamadsami672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://dev.to/tenacious-55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Tenacious_55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40" /></a>
+<a href="https://discord.com/users/hammadshahid0605_62114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 ---
 
 <p align="center">
-💼 Open to freelance opportunities and collaborations<br/>
-⭐️ From <a href="https://github.com/hammad-shahid55">Hammad Shahid</a>
+Open to freelance opportunities and collaborations<br/>
+From <a href="https://github.com/hammad-shahid55">Hammad Shahid</a>
 </p>
