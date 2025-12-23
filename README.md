@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Cross-Platform Mobile Application Developer</h3>
 
 <p align="center">
-Specializing in Flutter and React Native development, building robust and scalable mobile applications. I love crafting seamless user experiences and solving complex problems through clean, efficient code.
+Specializing in <b>Flutter</b> and <b>React Native</b> development, building robust and scalable mobile applications. I love crafting seamless user experiences and solving complex problems through clean, efficient code.
 </p>
 
 <p align="center"> 
@@ -14,57 +14,67 @@ Specializing in Flutter and React Native development, building robust and scalab
 
 ### About Me
 
-- Currently working on innovative mobile solutions for diverse industries
-- Learning Docker, Kotlin & Swift to expand my native development skills
-- Looking to collaborate on App Development Projects and open-source contributions
-- All of my projects are available at [GitHub](https://github.com/hammad-shahid55)
-- Ask me about Flutter, React Native, Firebase, TypeScript, State Management, and Mobile UI/UX
-- Reach me at **hamadsami672@gmail.com**
-- Fun fact: I'm a quick learner, fast code reviewer, efficient bug fixer, and tenacious problem solver
+- 🔭 Currently working on **innovative mobile solutions** for diverse industries
+- 🌱 Learning **Docker, Kotlin & Swift** to expand my native development skills
+- 👯 Looking to collaborate on **App Development Projects** and **open-source contributions**
+- 💼 All of my projects are available at **[GitHub](https://github.com/hammad-shahid55)**
+- 💬 Ask me about **Flutter, React Native, Firebase, TypeScript, State Management, and Mobile UI/UX**
+- 📫 Reach me at **hamadsami672@gmail.com**
+- ⚡ Fun fact: I'm a **quick learner**, **fast code reviewer**, **efficient bug fixer**, and **tenacious problem solver**
 
 ---
 
 ### Featured Projects
 
-#### SwiftRide - Ride Sharing App
-[View Project](https://github.com/hammad-shahid55/my_SwiftRide)
+#### **SwiftRide - Ride Sharing App**
+**[View Project](https://github.com/hammad-shahid55/my_SwiftRide)**
 
-A comprehensive ride-sharing application built with Flutter and Dart. Features include real-time ride tracking, user authentication, and seamless booking experience.
+A comprehensive **ride-sharing application** built with Flutter and Dart. Features include **real-time ride tracking**, **user authentication**, and seamless booking experience.
 
 **Tech Stack:** Flutter, Dart, Firebase
 
-#### Canteen Management System
-[View Project](https://github.com/hammad-shahid55/my_Canteen)
+---
 
-Digital canteen management solution for ordering and managing meals efficiently. Streamlines the food ordering process with an intuitive mobile interface.
+#### **Canteen Management System**
+**[View Project](https://github.com/hammad-shahid55/my_Canteen)**
+
+Digital **canteen management solution** for ordering and managing meals efficiently. Streamlines the food ordering process with an intuitive mobile interface.
 
 **Tech Stack:** Flutter, Dart
 
-#### ProVerify - Verification System
-[View Project](https://github.com/hammad-shahid55/My_ProVerify)
+---
 
-Professional verification and authentication system built with modern web technologies for secure user validation.
+#### **ProVerify - Verification System**
+**[View Project](https://github.com/hammad-shahid55/My_ProVerify)**
 
-**Tech Stack:** TypeScript, React
-
-#### Foundation - Project Management
-[View Project](https://github.com/hammad-shahid55/My_Foundation)
-
-A project management and foundation tracking application designed to help teams collaborate effectively.
+Professional **verification and authentication system** built with modern web technologies for **secure user validation**.
 
 **Tech Stack:** TypeScript, React
 
-#### Todo App - Task Manager
-[View Project](https://github.com/hammad-shahid55/My-todo-app)
+---
 
-Modern todo application with clean UI and efficient task management capabilities built using TypeScript.
+#### **Foundation - Project Management**
+**[View Project](https://github.com/hammad-shahid55/My_Foundation)**
+
+A **project management** and foundation tracking application designed to help teams **collaborate effectively**.
 
 **Tech Stack:** TypeScript, React
 
-#### Coffee Website
-[View Project](https://github.com/hammad-shahid55/my_cofffe_website)
+---
 
-Responsive coffee shop website showcasing products, with elegant design and smooth user experience.
+#### **Todo App - Task Manager**
+**[View Project](https://github.com/hammad-shahid55/My-todo-app)**
+
+Modern **todo application** with clean UI and efficient **task management** capabilities built using TypeScript.
+
+**Tech Stack:** TypeScript, React
+
+---
+
+#### **Coffee Website**
+**[View Project](https://github.com/hammad-shahid55/my_cofffe_website)**
+
+Responsive **coffee shop website** showcasing products, with elegant design and smooth user experience.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
@@ -72,7 +82,7 @@ Responsive coffee shop website showcasing products, with elegant design and smoo
 
 ### Tech Stack
 
-#### Mobile Development
+#### **Mobile Development**
 <p align="left">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
@@ -82,7 +92,7 @@ Responsive coffee shop website showcasing products, with elegant design and smoo
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 </p>
 
-#### Frontend & Web
+#### **Frontend & Web**
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -94,7 +104,7 @@ Responsive coffee shop website showcasing products, with elegant design and smoo
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
-#### Backend & Database
+#### **Backend & Database**
 <p align="left">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
@@ -105,7 +115,7 @@ Responsive coffee shop website showcasing products, with elegant design and smoo
 <a href="https://appwrite.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a>
 </p>
 
-#### Cloud & DevOps
+#### **Cloud & DevOps**
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
@@ -113,7 +123,7 @@ Responsive coffee shop website showcasing products, with elegant design and smoo
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-#### Tools & Design
+#### **Tools & Design**
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
@@ -125,17 +135,14 @@ Responsive coffee shop website showcasing products, with elegant design and smoo
 
 ### GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
@@ -153,6 +160,6 @@ Responsive coffee shop website showcasing products, with elegant design and smoo
 ---
 
 <p align="center">
-Open to freelance opportunities and collaborations<br/>
+<b>Open to freelance opportunities and collaborations</b><br/>
 From <a href="https://github.com/hammad-shahid55">Hammad Shahid</a>
 </p>
