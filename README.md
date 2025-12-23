@@ -12,7 +12,7 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Cross-Platform+Mobile+Developer+🚀;Flutter+%7C+React+Native+Expert+📱;Node.js+%26+API+Integration+Specialist+⚡;Firebase+%7C+Supabase+%7C+REST+APIs+🔥;Building+Scalable+Mobile+Solutions+🏗️;Collaboration+%26+Team+Player+🤝;Turning+Ideas+into+Reality+💡)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Cross-Platform+Mobile+Developer;Flutter+%7C+React+Native+Expert;Node.js+%26+API+Integration+Specialist;Firebase+%7C+Supabase+%7C+REST+APIs;Building+Scalable+Mobile+Solutions;Collaboration+%26+Team+Player;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
   
 </div>
 
