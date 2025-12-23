@@ -16,6 +16,8 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
   
 </div>
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
 ---
 
 ### About Me
