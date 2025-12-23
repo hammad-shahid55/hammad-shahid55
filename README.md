@@ -67,7 +67,7 @@ A **project management** and foundation tracking application designed to help te
 
 Modern **todo application** with clean UI and efficient **task management** capabilities built using TypeScript.
 
-**Tech Stack:** TypeScript, React
+**Tech Stack:** TypeScript, React, Supabase
 
 ---
 
