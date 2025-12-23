@@ -33,7 +33,7 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 - ⚡ Fun fact: I'm a **quick learner**, **fast code reviewer**, **efficient bug fixer**, and **tenacious problem solver**
 
 </td>
-<td width="50%" valign="top" align="center" >
+<td width="50%" valign="top" align="center" valign="middle" >
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%"/>
 
