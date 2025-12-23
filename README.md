@@ -147,6 +147,10 @@ Responsive **coffee shop website** showcasing products, with elegant design and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hammad-shahid55&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph" />
+</div>
+
 ---
 
 ### Connect With Me
