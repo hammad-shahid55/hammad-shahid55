@@ -43,7 +43,7 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 </td>
 <td width="50%" valign="middle" align="center" style="border: 0px;">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
 </td>
 </tr>
