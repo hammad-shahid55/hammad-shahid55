@@ -144,9 +144,9 @@ Responsive **coffee shop website** showcasing products, with elegant design and 
 
 
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+
 
 
 
