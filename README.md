@@ -16,8 +16,6 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
   
 </div>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
-
 ---
 
 ### About Me
@@ -30,6 +28,9 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 - 📫 Reach me at **hamadsami672@gmail.com**
 - ⚡ Fun fact: I'm a **quick learner**, **fast code reviewer**, **efficient bug fixer**, and **tenacious problem solver**
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="50%"/>
+</p>
 ---
 
 ### Featured Projects
