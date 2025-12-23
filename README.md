@@ -20,7 +20,7 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 
 ### About Me
 
-<table>
+<table border="0">
 <tr>
 <td width="50%" valign="top">
 
