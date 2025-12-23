@@ -10,6 +10,12 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 <a href="https://twitter.com/hammadshah27174" target="blank"><img src="https://img.shields.io/twitter/follow/hammadshah27174?logo=twitter&style=for-the-badge" alt="hammadshah27174" /></a> 
 </p>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%26+Tech+Lead+🚀;UI%2FUX+Specialist+%7C+Project+Manager+📊;React+%7C+Next.js+%7C+Node.js+Expert+⚡;Building+Enterprise+Solutions+🏗️;Team+Leadership+%26+Mentoring+👥;Turning+Vision+into+Scalable+Reality+✨)](https://git.io/typing-svg)
+  
+</div>
+
 ---
 
 ### About Me
