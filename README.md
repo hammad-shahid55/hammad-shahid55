@@ -31,7 +31,7 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 
 A comprehensive **ride-sharing application** built with Flutter and Dart. Features include **real-time ride tracking**, **user authentication**, and seamless booking experience.
 
-**Tech Stack:** Flutter, Dart, Firebase
+**Tech Stack:** Flutter, Dart, Supabase
 
 ---
 
@@ -40,7 +40,7 @@ A comprehensive **ride-sharing application** built with Flutter and Dart. Featur
 
 Digital **canteen management solution** for ordering and managing meals efficiently. Streamlines the food ordering process with an intuitive mobile interface.
 
-**Tech Stack:** Flutter, Dart
+**Tech Stack:** Flutter, Dart, Firebase
 
 ---
 
@@ -49,7 +49,7 @@ Digital **canteen management solution** for ordering and managing meals efficien
 
 Professional **verification and authentication system** built with modern web technologies for **secure user validation**.
 
-**Tech Stack:** TypeScript, React
+**Tech Stack:** TypeScript, React, Supabase
 
 ---
 
