@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hammad Shahid</h1>
+<h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
 
 <h3 align="center">A Passionate Cross-Platform Mobile Application Developer</h3>
 
@@ -135,14 +135,17 @@ Responsive **coffee shop website** showcasing products, with elegant design and 
 
 ### GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
