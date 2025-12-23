@@ -20,28 +20,20 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 
 ### About Me
 
-<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse; border: 0px;">
-<tr style="border: 0px;">
-<td width="50%" valign="top" style="border: 0px;">
-
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 - 🔭 Currently working on **innovative mobile solutions** for diverse industries
-  
 - 🌱 Learning **Docker, Kotlin & Swift** to expand my native development skills
-  
 - 👯 Looking to collaborate on **App Development Projects** and **open-source contributions**
-  
 - 💼 All of my projects are available at **[GitHub](https://github.com/hammad-shahid55)**
-  
 - 💬 Ask me about **Flutter, React Native, Firebase, TypeScript, State Management, and Mobile UI/UX**
-  
 - 📫 Reach me at **hamadsami672@gmail.com**
-  
 - ⚡ Fun fact: I'm a **quick learner**, **fast code reviewer**, **efficient bug fixer**, and **tenacious problem solver**
 
 </td>
-<td width="50%" valign="middle" align="center" style="border: 0px;">
+<td width="50%" valign="top">
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
