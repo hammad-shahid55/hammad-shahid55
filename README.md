@@ -136,20 +136,16 @@ Responsive **coffee shop website** showcasing products, with elegant design and 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-</div>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hammad-shahid55&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph" />
