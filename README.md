@@ -8,6 +8,9 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hammad-shahid-780a8534b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  
+  <img src="https://img.shields.io/badge/Experience-2+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
+  
 </p>
 
 <div align="center">
