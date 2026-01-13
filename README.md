@@ -157,8 +157,6 @@ Responsive **coffee shop website** showcasing products, with elegant design and 
 
 ### GitHub Stats
 
-
-
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
