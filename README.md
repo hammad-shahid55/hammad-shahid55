@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
 
-<h3 align="center">A Passionate Cross-Platform Mobile Application Developer</h3>
+<h3 align="center">A Passionate Full-Stack Cross-Platform Mobile Application Developer</h3>
 
 <p align="center">
 Specializing in <b>Flutter</b> and <b>React Native</b> development, building robust and scalable mobile applications. I love crafting seamless user experiences and solving complex problems through clean, efficient code.
@@ -132,6 +132,7 @@ Responsive **coffee shop website** showcasing products, with elegant design and 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
 <a href="https://supabase.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"
