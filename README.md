@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full-Stack Cross-Platform Mobile Application Developer</h3>
 
 <p align="center">
-Specializing in <b>Flutter</b> and <b>React Native</b> development, building robust and scalable mobile applications. I love crafting seamless user experiences and solving complex problems through clean, efficient code.
+Specializing in <b>Flutter</b> and <b>React Native</b> for cross-platform mobile apps, with strong backend expertise in <b>Node.js</b>, <b>Express.js</b>, and <b>MongoDB</b>. I build secure, scalable, and high-performance applications with clean architecture, powerful APIs, and seamless user experiences.
 </p>
 
 <p align="center">
@@ -15,7 +15,8 @@ Specializing in <b>Flutter</b> and <b>React Native</b> development, building rob
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Cross-Platform+Mobile+Developer;Flutter+%7C+React+Native+Expert;Node.js+%26+API+Integration+Specialist;Firebase+%7C+Supabase+%7C+REST+APIs;Building+Scalable+Mobile+Solutions;Collaboration+%26+Team+Player;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Full-Stack+Cross-Platform+Developer;Flutter+%7C+React+Native+Expert;Node.js+%7C+Express+%7C+MongoDB+Specialist;Backend+APIs+%26+System+Design;Firebase+%7C+Supabase+%7C+REST+APIs;Building+Scalable+Full-Stack+Solutions;Collaboration+%26+Team+Player;Turning+Ideas+into+Production-Ready+Apps)](https://git.io/typing-svg)
+
   
 </div>
 
