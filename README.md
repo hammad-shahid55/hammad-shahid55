@@ -167,12 +167,14 @@ Responsive **coffee shop website** showcasing products, with elegant design and 
 
 <p align="center" ><img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact" alt="hammad-shahid55" /></p>
 
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en" alt="hammad-shahid55" /></p>
+
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hammad-shahid55&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hammad-shahid55&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph" />
 </div>
 
 ---
