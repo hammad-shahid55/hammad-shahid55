@@ -28,13 +28,13 @@ Specializing in <b>Flutter</b> and <b>React Native</b> for cross-platform mobile
 <tr>
 <td width="50%" valign="middle">
 
-- 🔭 Currently working on **innovative mobile solutions** for diverse industries
-- 🌱 Learning **Docker, Kotlin & Swift** to expand my native development skills
-- 👯 Looking to collaborate on **App Development Projects** and **open-source contributions**
-- 💼 All of my projects are available at **[GitHub](https://github.com/hammad-shahid55)**
-- 💬 Ask me about **Flutter, React Native, Firebase, TypeScript, State Management, and Mobile UI/UX**
-- 📫 Reach me at **hamadsami672@gmail.com**
-- ⚡ Fun fact: I'm a **quick learner**, **fast code reviewer**, **efficient bug fixer**, and **tenacious problem solver**
+-  Currently working on **innovative mobile solutions** for diverse industries
+-  Learning **Docker, Kotlin & Swift** to expand my native development skills
+-  Looking to collaborate on **App Development Projects** and **open-source contributions**
+-  All of my projects are available at **[GitHub](https://github.com/hammad-shahid55)**
+-  Ask me about **Flutter, React Native, Firebase, TypeScript, State Management, and Mobile UI/UX**
+-  Reach me at **hamadsami672@gmail.com**
+-  Fun fact: I'm a **quick learner**, **fast code reviewer**, **efficient bug fixer**, and **tenacious problem solver**
 
 </td>
 <td width="50%" align="center" valign="middle" >
