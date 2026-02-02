@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full-Stack Cross-Platform Mobile Application Developer</h3>
 
 <p align="center">
-Expert in building <b>scalable full-stack applications</b> with modern frontend technologies (<b>Flutter</b>, <b>React Native</b>, <b>React.js</b>) and powerful backend systems (<b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>). Specialized in <b>complex third-party API integrations</b> including <b>Twilio/Telnyx calling</b>, <b>Google Maps</b>, <b>Stripe payments</b>, <b>Redis caching</b>, <b>WebSocket real-time communication</b>, and <b>Resend email services</b>.
+Expert in building <b>scalable full-stack applications</b> with modern frontend technologies (<b>Flutter</b>, <b>React Native</b>, <b>Expo</b>, <b>React.js</b>) and powerful backend systems (<b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>). Specialized in <b>complex third-party API integrations</b> including <b>Twilio/Telnyx calling</b>, <b>Google Maps</b>, <b>Stripe payments</b>, <b>Redis caching</b>, <b>WebSocket real-time communication</b>, and <b>Resend email services</b>. Experienced in <b>deploying production apps</b> to <b>Google Play Console</b> and building native apps for both <b>Android and iOS</b> platforms.
 </p>
 
 <p align="center">
@@ -11,11 +11,13 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
   
   <img src="https://img.shields.io/badge/Experience-2+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
   
+  <img src="https://img.shields.io/badge/Apps%20Published-Multiple-success?style=for-the-badge&logo=google-play" alt="Published Apps"/>
+  
 </p>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Mobile+%26+Web+Expert;Flutter+%7C+React+Native+%7C+React.js+Specialist;Node.js+%7C+Express.js+%7C+MongoDB+Backend;Twilio+%26+Telnyx+Voice+Calling;Google+Maps+%7C+Stripe+%7C+Resend+Email;Redis+Caching+%7C+WebSocket+Real-Time;Building+Production-Ready+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Mobile+%26+Web+Expert;Flutter+%7C+React+Native+%7C+Expo+Specialist;Node.js+%7C+Express.js+%7C+MongoDB+Backend;Android+%26+iOS+App+Development;Google+Play+Console+Deployment+Expert;Twilio+%26+Telnyx+Voice+Calling;Google+Maps+%7C+Stripe+%7C+Resend+Email;Redis+Caching+%7C+WebSocket+Real-Time;Building+Production-Ready+Applications)](https://git.io/typing-svg)
   
 </div>
 
@@ -28,10 +30,13 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 <td width="50%" valign="middle">
 
 -  Currently working on **innovative full-stack solutions** with complex third-party integrations
+-  **Successfully deployed multiple applications** to **Google Play Console** with production-grade quality
+-  Expert in **Expo** for rapid cross-platform development with **EAS Build** for Android & iOS
+-  Building **native Android and iOS apps** with optimized performance and platform-specific features
 -  Learning **Docker, Kubernetes, Kotlin & Swift** for containerization and native development
 -  Looking to collaborate on **Full-Stack App Development** and **open-source contributions**
 -  All of my projects are available at **[GitHub](https://github.com/hammad-shahid55)**
--  Ask me about **Flutter, React Native, React.js, Node.js, Express.js, MongoDB, Twilio, Telnyx, Google Maps, Stripe, Redis, WebSockets, Resend, Real-Time Systems, Firebase, TypeScript, State Management, and Mobile/Web UI/UX**
+-  Ask me about **Flutter, React Native, Expo, React.js, Node.js, Express.js, MongoDB, Twilio, Telnyx, Google Maps, Stripe, Redis, WebSockets, Resend, Real-Time Systems, Firebase, TypeScript, State Management, App Deployment, and Mobile/Web UI/UX**
 -  Reach me at **hamadsami672@gmail.com**
 -  Fun fact: I'm a **quick learner**, **fast code reviewer**, **efficient bug fixer**, and **tenacious problem solver**
 
@@ -46,9 +51,21 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 
 ---
 
-## Frontend Development Expertise
+## Mobile App Development & Deployment Expertise
 
-### Mobile Development (Flutter & React Native)
+### Cross-Platform Development
+
+**Expo Framework**
+- **Expo CLI** for rapid development and prototyping
+- **EAS Build** for creating production-ready Android (APK/AAB) and iOS (IPA) builds
+- **EAS Submit** for automated app store submissions
+- **Expo Router** for file-based navigation
+- **Over-the-Air (OTA) updates** for instant app updates
+- **Expo modules** and native modules integration
+- Custom native code with development builds
+- Environment variables and build configurations
+- Push notifications with Expo Notifications
+- Camera, location, and sensor integrations
 
 **Flutter Development**
 - Custom UI with advanced animations
@@ -57,6 +74,8 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 - Platform-specific optimizations
 - Offline-first architecture
 - Push notifications & deep linking
+- Building APKs and App Bundles for Android
+- iOS builds with Xcode integration
 
 **React Native Development**
 - Native modules & bridges
@@ -64,6 +83,40 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 - React Navigation with deep linking
 - Styled Components & NativeWind
 - Performance optimization
+- Platform-specific code (Android & iOS)
+
+### App Publishing & Deployment
+
+**Google Play Console Expertise**
+- Successfully deployed **multiple production apps** to Google Play Store
+- **App Bundle (AAB)** optimization for reduced download sizes
+- **Alpha, Beta, and Production** release track management
+- **Internal testing** and **closed testing** workflows
+- Play Store listing optimization (screenshots, descriptions, keywords)
+- **App signing** and keystore management
+- **Version management** and rollout strategies
+- **Crash analytics** and performance monitoring integration
+- **Play Console API** for automated deployments
+- Store listing compliance and policy adherence
+
+**iOS App Store Experience**
+- TestFlight beta testing setup
+- App Store Connect configuration
+- Apple Developer Program integration
+- Provisioning profiles and certificates management
+- App Review preparation and submission
+
+**Build & Release Process**
+- Automated CI/CD pipelines for app builds
+- **Fastlane** integration for deployment automation
+- Environment-specific builds (dev, staging, production)
+- Code signing and certificate management
+- Release notes and changelog management
+- Binary optimization and app size reduction
+
+---
+
+## Frontend Development Expertise
 
 ### Web Development (React.js & Next.js)
 
@@ -252,6 +305,7 @@ Modern **creative agency website** built with Astro framework for optimal perfor
 <p align="left">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+<a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/></a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
@@ -295,6 +349,9 @@ Modern **creative agency website** built with Astro framework for optimal perfor
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" 
        alt="vercel" width="40" height="40"/></a>
+<a href="https://fastlane.tools/" target="_blank" rel="noreferrer">
+  <img src="https://fastlane.tools/assets/images/fastlane-logo-lockup.png" 
+       alt="fastlane" width="40" height="40"/></a>
 </p>
 
 #### **Tools & Design**
