@@ -154,90 +154,95 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-#### **SwiftRide - Ride Sharing App**
+#### **1. Todo Application - Full-Stack MERN**
+**[Frontend](https://github.com/hammad-shahid55/My_Todo_React.js_Frontend) | [Backend](https://github.com/hammad-shahid55/My_Todo_Node.js_Backend)**
+
+Modern **MERN stack todo application** with complete separation of concerns. Built with React.js frontend and Node.js backend for optimal performance and scalability.
+
+**Tech Stack:** React.js, JavaScript (Frontend), Node.js, Express.js (Backend), MongoDB  
+**Highlights:** CRUD operations, user authentication, task categorization, priority management, responsive design
+
+---
+
+#### **2. SwiftRide - Ride Sharing Platform**
 **[View Project](https://github.com/hammad-shahid55/my_SwiftRide)**
 
-A comprehensive **ride-sharing application** built with Flutter and Dart. Features include **real-time ride tracking**, **user authentication**, and seamless booking experience with location services integration.
+Comprehensive **ride-sharing application** built with Flutter featuring real-time GPS tracking, driver-rider matching, and seamless booking experience. Includes advanced location services and payment integration.
 
 **Tech Stack:** Flutter, Dart, Supabase, Google Maps API  
-**Highlights:** Real-time GPS tracking, payment integration, driver-rider matching algorithm
+**Highlights:** Real-time tracking, geofencing, driver allocation algorithm, payment gateway, ride history
 
 ---
 
-#### **Canteen Management System**
+#### **3. Canteen Management System**
 **[View Project](https://github.com/hammad-shahid55/my_Canteen)**
 
-Digital **canteen management solution** for ordering and managing meals efficiently. Streamlines the food ordering process with an intuitive mobile interface, menu management, and order tracking.
+Digital **canteen management solution** streamlining food ordering and inventory management. Features menu browsing, order placement, and real-time order status updates.
 
 **Tech Stack:** Flutter, Dart, Firebase  
-**Highlights:** Real-time order updates, inventory management, user role management
+**Highlights:** Menu management, order tracking, user roles (student/staff/admin), payment integration, notifications
 
 ---
 
-#### **ProVerify - Verification System**
+#### **4. InternIntelligence Movie Task**
+**[View Project](https://github.com/hammad-shahid55/InternIntelligence_MovieTask)**
+
+Movie browsing and management application built as part of an internship project. Features movie search, detailed information display, and user favorites.
+
+**Tech Stack:** Flutter, Dart, REST API integration  
+**Highlights:** Movie database API integration, search functionality, responsive UI, favorites management
+
+---
+
+#### **5. ProVerify - Verification System**
 **[View Project](https://github.com/hammad-shahid55/My_ProVerify)**
 
-Professional **verification and authentication system** built with modern web technologies for **secure user validation**. Implements multi-factor authentication and identity verification workflows.
+Professional **verification and authentication system** implementing secure user validation workflows. Features multi-factor authentication and document verification.
 
 **Tech Stack:** TypeScript, React, Supabase  
-**Highlights:** OTP verification, document verification, secure authentication flows
+**Highlights:** OTP verification, document upload, identity validation, secure authentication, admin dashboard
 
 ---
 
-#### **Foundation - Project Management**
-**[View Project](https://github.com/hammad-shahid55/My_Foundation)**
+#### **6. NotePad - Cloud-Based Note Taking**
+**[View Project](https://github.com/hammad-shahid55/My_notePad)**
 
-A **project management** and foundation tracking application designed to help teams **collaborate effectively**. Features task assignment, progress tracking, and team communication tools.
+Modern **cloud-based note-taking application** with rich text editing and cloud synchronization. Features markdown support and cross-device sync.
 
-**Tech Stack:** TypeScript, React  
-**Highlights:** Task management, team collaboration, progress dashboards
-
----
-
-#### **Todo App - Task Manager**
-**[View Project](https://github.com/hammad-shahid55/My-todo-app)**
-
-Modern **todo application** with clean UI and efficient **task management** capabilities. Includes priority setting, due dates, categories, and cloud synchronization.
-
-**Tech Stack:** TypeScript, React, Supabase  
-**Highlights:** Cloud sync, offline support, categorization, priority management
+**Tech Stack:** TypeScript, React, Cloud Storage  
+**Highlights:** Rich text editor, markdown support, cloud sync, categorization, search functionality
 
 ---
 
-#### **Coffee Website**
+#### **7. GameBazar - Gaming E-Commerce Platform**
+**[View Project](https://github.com/hammad-shahid55/My_GameBazar)**
+
+Full-featured **e-commerce platform** for gaming products built with PHP. Includes product catalog, shopping cart, and payment processing.
+
+**Tech Stack:** PHP, MySQL, JavaScript, CSS  
+**Highlights:** Product management, shopping cart, user accounts, payment integration, order management
+
+---
+
+#### **8. Coffee Website - Responsive Landing Page**
 **[View Project](https://github.com/hammad-shahid55/my_cofffe_website)**
 
-Responsive **coffee shop website** showcasing products, with elegant design and smooth user experience. Features product catalog, shopping cart, and contact forms.
+Beautifully designed **coffee shop website** with elegant animations and smooth user experience. Features product showcase and contact forms.
 
 **Tech Stack:** HTML, CSS, JavaScript  
-**Highlights:** Responsive design, smooth animations, modern UI/UX
+**Highlights:** Responsive design, smooth animations, modern UI/UX, contact forms, product gallery
 
 ---
 
-#### **Backend API Projects**
+#### **9. CAD - Creative Agency Website**
+**[View Project](https://github.com/hammad-shahid55/CAD)**
 
-**E-Commerce REST API**
-- Built with Node.js, Express.js, and MongoDB
-- JWT authentication and role-based authorization
-- Product catalog, cart management, and order processing
-- Payment gateway integration (Stripe)
-- Image upload with Multer and Cloudinary
+Modern **creative agency website** built with Astro framework for optimal performance and SEO.
 
-**Social Media API**
-- Real-time messaging with Socket.io
-- Post creation, likes, comments, and sharing
-- User profiles and follower system
-- News feed algorithm with MongoDB aggregation
-- File uploads and media handling
-
-**Task Management API**
-- Team collaboration features
-- RESTful endpoints for CRUD operations
-- Advanced filtering and sorting
-- Data validation with Joi
-- Comprehensive error handling
+**Tech Stack:** Astro, TypeScript, Modern CSS  
+**Highlights:** Static site generation, SEO optimization, fast loading, portfolio showcase
 
 ---
 
