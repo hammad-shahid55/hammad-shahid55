@@ -92,7 +92,6 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 - **Crash analytics** and performance monitoring integration
 - **Play Console API** for automated deployments
 - Store listing compliance and policy adherence
-- 
 ---
 
 ## Frontend Development Expertise
@@ -142,7 +141,6 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 - Transactional emails
 - HTML templates
 - Email analytics
-- Domain verification
 - High deliverability
 
 ---
