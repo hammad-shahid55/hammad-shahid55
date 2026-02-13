@@ -96,16 +96,14 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 
 ## Frontend Development Expertise
 
-### Web Development (React.js & Next.js)
+### Web Development (React.js & Node.js)
 
 - Component-based architecture
 - Advanced React Hooks & custom hooks
-- Redux Toolkit, Zustand state management
+- Zustand state management
 - Tailwind CSS, Material-UI, Chakra UI
-- Next.js SSR/SSG/ISR
 - React Query for server state
 - TypeScript for type safety
-- Accessibility (WCAG 2.1)
 - Performance optimization
 
 ---
