@@ -57,29 +57,23 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 
 **Expo Framework**
 - **Expo CLI** for rapid development and prototyping
-- **EAS Build** for creating production-ready Android (APK/AAB) and iOS (IPA) builds
+- **EAS Build** for creating production-ready Android (APK/AAB)
 - **EAS Submit** for automated app store submissions
 - **Expo Router** for file-based navigation
-- **Over-the-Air (OTA) updates** for instant app updates
 - **Expo modules** and native modules integration
 - Custom native code with development builds
 - Environment variables and build configurations
-- Push notifications with Expo Notifications
 - Camera, location, and sensor integrations
 
 **Flutter Development**
 - Custom UI with advanced animations
 - State Management (Provider, Riverpod, BLoC, GetX)
-- Clean Architecture & MVVM patterns
-- Platform-specific optimizations
-- Offline-first architecture
 - Push notifications & deep linking
 - Building APKs and App Bundles for Android
-- iOS builds with Xcode integration
 
 **React Native Development**
 - Native modules & bridges
-- Redux & Context API
+- Zustand & Context API
 - React Navigation with deep linking
 - Styled Components & NativeWind
 - Performance optimization
@@ -90,7 +84,7 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 **Google Play Console Expertise**
 - Successfully deployed **multiple production apps** to Google Play Store
 - **App Bundle (AAB)** optimization for reduced download sizes
-- **Alpha, Beta, and Production** release track management
+- **Production** release track management
 - **Internal testing** and **closed testing** workflows
 - Play Store listing optimization (screenshots, descriptions, keywords)
 - **App signing** and keystore management
@@ -98,22 +92,7 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 - **Crash analytics** and performance monitoring integration
 - **Play Console API** for automated deployments
 - Store listing compliance and policy adherence
-
-**iOS App Store Experience**
-- TestFlight beta testing setup
-- App Store Connect configuration
-- Apple Developer Program integration
-- Provisioning profiles and certificates management
-- App Review preparation and submission
-
-**Build & Release Process**
-- Automated CI/CD pipelines for app builds
-- **Fastlane** integration for deployment automation
-- Environment-specific builds (dev, staging, production)
-- Code signing and certificate management
-- Release notes and changelog management
-- Binary optimization and app size reduction
-
+- 
 ---
 
 ## Frontend Development Expertise
@@ -136,22 +115,12 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 
 ### Twilio Integration
 - **Voice**: Inbound/outbound calling, IVR, call recording, conferencing
-- **SMS**: Two-way messaging, delivery tracking, bulk SMS
-- **WhatsApp**: Business API, rich media, templates
-- **Video**: One-to-one & group video, screen sharing
 
 ### Telnyx Integration
 - SIP trunking & VoIP
 - Global number provisioning
 - Call analytics & CDR
 - WebRTC browser calling
-
-### WebSocket & Real-Time
-- Socket.io for bidirectional communication
-- Real-time chat with typing indicators
-- Presence detection
-- Room-based messaging
-- Live notifications
 
 ### Google Maps Integration
 - Interactive maps with custom markers
@@ -176,14 +145,6 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 - Domain verification
 - High deliverability
 
-### Redis Integration
-- Query result caching
-- Session management
-- Rate limiting
-- Pub/Sub messaging
-- Real-time leaderboards
-- Performance optimization
-
 ---
 
 ## Backend Development Expertise
@@ -200,9 +161,7 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 ### MongoDB
 - Schema design & optimization
 - Indexing strategies
-- Aggregation pipelines
 - Transactions
-- Change streams
 - Performance tuning
 
 ---
