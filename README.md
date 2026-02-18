@@ -324,10 +324,6 @@ Modern **creative agency website** built with Astro framework for optimal perfor
 
 ### GitHub Stats
 
-<p align="center" ><img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-shahid55&show_icons=true&locale=en&layout=compact" alt="hammad-shahid55" /></p>
-
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hammad-shahid55&show_icons=true&locale=en" alt="hammad-shahid55" /></p>
-
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-shahid55&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
