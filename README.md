@@ -27,21 +27,21 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 
 <table>
 <tr>
-<td width="50%" valign="middle">
+<td width="50%" valign="middle" style="text-align: justify;">
 
--  Currently working on **innovative full-stack solutions** with complex third-party integrations
--  **Successfully deployed multiple applications** to **Google Play Console** with production-grade quality
--  Expert in **Expo** for rapid cross-platform development with **EAS Build** for Android & iOS
--  Building **native Android and iOS apps** with optimized performance and platform-specific features
--  Learning **Docker, Kubernetes, Kotlin & Swift** for containerization and native development
--  Looking to collaborate on **Full-Stack App Development** and **open-source contributions**
--  All of my projects are available at **[GitHub](https://github.com/hammad-shahid55)**
--  Ask me about **Flutter, React Native, Expo, React.js, Node.js, Express.js, MongoDB, Twilio, Telnyx, Google Maps, Stripe, Redis, WebSockets, Resend, Real-Time Systems, Firebase, TypeScript, State Management, App Deployment, and Mobile/Web UI/UX**
--  Reach me at **hamadsami672@gmail.com**
--  Fun fact: I'm a **quick learner**, **fast code reviewer**, **efficient bug fixer**, and **tenacious problem solver**
+- Currently working on **innovative full-stack solutions** with complex third-party integrations  
+- Successfully deployed multiple **production-grade applications** to **Google Play Console**  
+- Expert in **Expo** for rapid cross-platform development using **EAS Build** for Android and iOS  
+- Building **high-performance Android and iOS applications** with platform-specific optimizations  
+- Currently learning **Docker, Kubernetes, Kotlin, and Swift** for containerization and native development  
+- Open to collaborating on **Full-Stack App Development** and **open-source projects**  
+- All of my projects are available on **[GitHub](https://github.com/hammad-shahid55)**  
+- Ask me about **Flutter, React Native, Expo, React.js, Node.js, Express.js, MongoDB, Twilio, Telnyx, Google Maps, Stripe, Resend, Firebase, TypeScript, State Management, App Deployment, and Mobile/Web UI/UX**  
+- Reach me at **hamadsami672@gmail.com**  
+- Fun fact: I’m a **quick learner**, **fast code reviewer**, **efficient bug fixer**, and **persistent problem solver**
 
 </td>
-<td width="50%" align="center" valign="middle" >
+<td width="50%" align="center" valign="middle">
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%"/>
 
@@ -51,114 +51,43 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 
 ---
 
-## Mobile App Development & Deployment Expertise
+# Mobile & Web Full-Stack Development Expertise
 
-### Cross-Platform Development
+## Cross-Platform Development
 
-**Expo Framework**
-- **Expo CLI** for rapid development and prototyping
-- **EAS Build** for creating production-ready Android (APK/AAB)
-- **EAS Submit** for automated app store submissions
-- **Expo Router** for file-based navigation
-- **Expo modules** and native modules integration
-- Custom native code with development builds
-- Environment variables and build configurations
-- Camera, location, and sensor integrations
+**Expo**: CLI, EAS Build & Submit, Router, native modules, device integrations
 
-**Flutter Development**
-- Custom UI with advanced animations
-- State Management (Provider, Riverpod, BLoC, GetX)
-- Push notifications & deep linking
-- Building APKs and App Bundles for Android
+**Flutter**: Custom UI, State Management, FCM push notifications, Deep Linking, APK/AAB builds
 
-**React Native Development**
-- Native modules & bridges
-- Zustand & Context API
-- React Navigation with deep linking
-- Styled Components & NativeWind
-- Performance optimization
-- Platform-specific code (Android & iOS)
+**React Native**: Native modules, Zustand/Context API, React Navigation, Styled Components/NativeWind, Performance optimization, Android/iOS platform-specific code
 
-### App Publishing & Deployment
+## App Deployment
 
-**Google Play Console Expertise**
-- Successfully deployed **multiple production apps** to Google Play Store
-- **App Bundle (AAB)** optimization for reduced download sizes
-- **Production** release track management
-- **Internal testing** and **closed testing** workflows
-- Play Store listing optimization (screenshots, descriptions, keywords)
-- **App signing** and keystore management
-- **Version management** and rollout strategies
-- **Crash analytics** and performance monitoring integration
-- **Play Console API** for automated deployments
-- Store listing compliance and policy adherence
----
+**Google Play Console**: Production apps deployment, App Bundle optimization, Release track management, Testing workflows, Store listing optimization, App signing, Version management, Crash analytics, Play Console API, Compliance
 
-## Frontend Development Expertise
+## Frontend Web Development
 
-### Web Development (React.js & Node.js)
-
-- Component-based architecture
-- Advanced React Hooks & custom hooks
+- React.js component-based architecture & hooks
 - Zustand state management
-- Tailwind CSS, Material-UI, Chakra UI
-- React Query for server state
-- TypeScript for type safety
+- Tailwind CSS, Material UI, Chakra UI
+- React Query & TypeScript
 - Performance optimization
 
----
+## Third-Party Integrations
 
-## Third-Party Integration Expertise
+- **Twilio**: Voice calls, IVR, call recording, conferencing
+- **Telnyx**: SIP trunking, VoIP, global numbers, call analytics, browser calls
+- **Google Maps**: Interactive maps, GPS tracking, Geocoding, Directions, Geofencing, Places API
+- **Stripe**: Card & wallet payments, subscriptions, webhooks, multi-currency
+- **Resend Email**: Transactional emails, HTML templates, analytics
 
-### Twilio Integration
-- **Voice**: Inbound/outbound calling, IVR, call recording, conferencing
+## Backend & Databases
 
-### Telnyx Integration
-- SIP trunking & VoIP
-- Global number provisioning
-- Call analytics & CDR
-- WebRTC browser calling
+**Node.js & Express.js**: REST APIs, JWT auth, Role-based access, Middleware, Background jobs, File uploads
 
-### Google Maps Integration
-- Interactive maps with custom markers
-- Real-time GPS tracking
-- Geocoding & reverse geocoding
-- Directions & route optimization
-- Geofencing
-- Places API & autocomplete
+**MongoDB**: Schemas, Indexing, Transactions, Performance tuning
 
-### Stripe Payments
-- Credit/debit cards, Apple Pay, Google Pay
-- Subscription management
-- 3D Secure authentication
-- Webhooks for events
-- Customer portal
-- Multi-currency support
-
-### Resend Email
-- Transactional emails
-- HTML templates
-- Email analytics
-- High deliverability
-
----
-
-## Backend Development Expertise
-
-### Node.js & Express.js
-- RESTful API development
-- JWT authentication
-- Role-based access control
-- Middleware implementation
-- Real-time with Socket.io
-- Background jobs
-- File upload handling
-
-### MongoDB
-- Schema design & optimization
-- Indexing strategies
-- Transactions
-- Performance tuning
+**PostgreSQL**: Relational schema, SQL queries & joins, Indexing, Transactions, Data integrity
 
 ---
 
