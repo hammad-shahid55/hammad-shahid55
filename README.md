@@ -2,8 +2,8 @@
 
 <h3 align="center">A Passionate Full-Stack Cross-Platform Mobile Application Developer</h3>
 
-<p align="center">
-Expert in building <b>scalable full-stack applications</b> with modern frontend technologies (<b>Flutter</b>, <b>React Native</b>, <b>Expo</b>, <b>React.js</b>) and powerful backend systems (<b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>, <b>PostgreSQL</b>). Specialized in <b>complex third-party API integrations</b> including <b>Twilio/Telnyx calling</b>, <b>Google Maps</b>, <b>Stripe payments</b>, <b>Redis caching</b>, <b>WebSocket real-time communication</b>, and <b>Resend email services</b>. Experienced in <b>deploying production apps</b> to <b>Google Play Console</b> and building native apps for both <b>Android and iOS</b> platforms.
+<p align="justify">
+Expert in building <b>scalable full-stack applications</b> with modern frontend technologies <b>Flutter</b>, <b>React Native</b>, <b>Expo</b>, and <b>React.js</b> along with powerful backend systems <b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>, and <b>PostgreSQL</b>. Specialized in <b>complex third-party API integrations</b> including <b>Twilio and Telnyx calling</b>, <b>Google Maps</b>, <b>Stripe payments</b>, <b>WebSocket real-time communication</b>, <b>Firebase Cloud Messaging push notifications</b>, and <b>Resend email services</b>. Experienced in <b>deploying production apps</b> to <b>Google Play Console</b> and building high-performance native applications for both <b>Android</b> and <b>iOS</b> platforms.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Mobile+%26+Web+Expert;Flutter+%7C+React+Native+%7C+Expo+Specialist;Node.js+%7C+Express.js+%7C+MongoDB+Backend;Android+%26+iOS+App+Development;Google+Play+Console+Deployment+Expert;Twilio+%26+Telnyx+Voice+Calling;Google+Maps+%7C+Stripe+%7C+Resend+Email;Redis+Caching+%7C+WebSocket+Real-Time;Building+Production-Ready+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=2196F3&center=true&vCenter=true&width=850&lines=Full-Stack+Mobile+%26+Web+Developer;Flutter+%7C+React+Native+%7C+Expo;Node.js+%7C+Express+%7C+MongoDB+%7C+PostgreSQL;Android+%26+iOS+Production+Apps;FCM+Push+Notifications+Expert;Twilio+%7C+Telnyx+%7C+Stripe+%7C+Maps;Deploying+Apps+to+Google+Play;Building+Scalable+Production+Systems)](https://git.io/typing-svg)
   
 </div>
 
