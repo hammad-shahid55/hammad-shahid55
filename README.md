@@ -11,8 +11,6 @@ Expert in building <b>scalable full-stack applications</b> with modern frontend 
   
   <img src="https://img.shields.io/badge/Experience-2+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
   
-  <img src="https://img.shields.io/badge/Apps%20Published-Multiple-success?style=for-the-badge&logo=google-play" alt="Published Apps"/>
-  
 </p>
 
 <div align="center">
