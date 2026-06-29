@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full-Stack Cross-Platform Mobile Application Developer</h3>
 
 <p align="justify">
-Expert in building <b>scalable full-stack applications</b> with modern frontend technologies <b>Flutter</b>, <b>React Native</b>, <b>Expo</b>, and <b>React.js</b> along with powerful backend systems <b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>, and <b>PostgreSQL</b>. Specialized in <b>complex third-party API integrations</b> including <b>Twilio and Telnyx calling</b>, <b>Google Maps</b>, <b>Stripe payments</b>, <b>WebSocket real-time communication</b>, <b>Firebase Cloud Messaging push notifications</b>, and <b>Resend email services</b>. Experienced in <b>deploying production apps</b> to <b>Google Play Console</b> and building high-performance native applications for both <b>Android</b> and <b>iOS</b> platforms.
+Expert in building <b>scalable full-stack applications</b> with modern frontend technologies <b>Flutter</b>, <b>React Native</b>, <b>Expo</b>, and <b>React.js</b> along with powerful backend systems <b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>, and <b>PostgreSQL</b>. Specialized in <b>complex third-party API integrations</b> including <b>Twilio, Agora and Telnyx calling</b>, <b>Google Maps</b>, <b>Stripe payments</b>, <b>WebSocket real-time communication</b>, <b>Firebase Cloud Messaging push notifications</b>, and <b>Resend email services</b>. Experienced in <b>deploying production apps</b> to <b>Google Play Console</b> and building high-performance native applications for both <b>Android</b> and <b>iOS</b> platforms.
 </p>
 
 <p align="center">
